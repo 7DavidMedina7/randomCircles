@@ -1,6 +1,9 @@
 import turtle
 import random
 
+window = turtle.Screen()
+window.title("Tim the turtle making circles!")
+
 # Creating our turtle Tim!
 tim = turtle.Turtle()
 
